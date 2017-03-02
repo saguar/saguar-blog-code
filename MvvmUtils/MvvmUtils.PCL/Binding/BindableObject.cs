@@ -17,7 +17,7 @@ namespace Saguar.MvvmUtils.Binding
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
-        protected bool Set<U>(string propertyName, ref U field, U value)
+        private bool Set<U>(string propertyName, ref U field, U value)
         {
             if (EqualityComparer<U>.Default.Equals(field, value)) return false;
             field = value;
@@ -25,7 +25,7 @@ namespace Saguar.MvvmUtils.Binding
             return true;
         }
 
-        protected bool Set<U>(ref U field, U value, [CallerMemberName]string propertyName = "")
+        private bool Set<U>(ref U field, U value, [CallerMemberName]string propertyName = "")
         {
             if (EqualityComparer<U>.Default.Equals(field, value)) return false;
             field = value;
@@ -44,7 +44,7 @@ namespace Saguar.MvvmUtils.Binding
         public T OldValue
         {
             get { return _OldValue; }
-            set { Set(ref _OldValue, value); }
+            private set { Set(ref _OldValue, value); }
         }
 
         //Current Value 
