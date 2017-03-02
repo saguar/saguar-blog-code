@@ -1,0 +1,4 @@
+C:\Users\saguar\Documents\Visual Studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\bin\Debug\MvvmUtils.PCL.dll
+C:\Users\saguar\Documents\Visual Studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\bin\Debug\MvvmUtils.PCL.pdb
+C:\Users\saguar\Documents\Visual Studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\obj\Debug\MvvmUtils.PCL.dll
+C:\Users\saguar\Documents\Visual Studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\obj\Debug\MvvmUtils.PCL.pdb

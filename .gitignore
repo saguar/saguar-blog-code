@@ -3,3 +3,9 @@
 ################################################################################
 
 /MvvmUtils/MvvmUtils/bin
+/MvvmUtils/MvvmUtils/obj
+/MvvmUtils/MvvmUtils/obj
+/MvvmUtils/MvvmUtils/obj/x86
+/MvvmUtils/MvvmUtils/obj/Release/netstandard1.4
+/MvvmUtils/MvvmUtils.PCL/bin
+/MvvmUtils/MvvmUtils.PCL/obj
