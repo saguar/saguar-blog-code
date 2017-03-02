@@ -10,3 +10,4 @@
 /MvvmUtils/MvvmUtils.PCL/bin
 /MvvmUtils/MvvmUtils.PCL/obj
 /.vs
+*.nupkg
