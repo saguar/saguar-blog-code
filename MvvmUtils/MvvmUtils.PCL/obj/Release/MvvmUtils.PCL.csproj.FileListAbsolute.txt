@@ -1,4 +1,0 @@
-C:\Users\saguar\documents\visual studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\bin\Release\MvvmUtils.PCL.dll
-C:\Users\saguar\documents\visual studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\bin\Release\MvvmUtils.PCL.pdb
-C:\Users\saguar\documents\visual studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\obj\Release\MvvmUtils.PCL.dll
-C:\Users\saguar\documents\visual studio 2017\Projects\MvvmUtils\MvvmUtils.PCL\obj\Release\MvvmUtils.PCL.pdb
