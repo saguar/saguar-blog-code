@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace MvvmUtils.PCL.Converters
+namespace Saguar.MvvmUtils.Converters
 {
     public class BooleanConverter<T>
     {

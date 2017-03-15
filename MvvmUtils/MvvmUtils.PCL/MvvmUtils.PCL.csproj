@@ -7,8 +7,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{45792320-9AC5-4DD5-A6D4-1EA0FEC87209}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>MvvmUtils.PCL</RootNamespace>
-    <AssemblyName>MvvmUtils.PCL</AssemblyName>
+    <RootNamespace>Saguar.MvvmUtils</RootNamespace>
+    <AssemblyName>Saguar.MvvmUtils</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
