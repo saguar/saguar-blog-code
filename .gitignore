@@ -11,3 +11,7 @@
 /MvvmUtils/MvvmUtils.PCL/obj
 /.vs
 *.nupkg
+/MvvmUtils/MvvmUtils.Test/bin/Debug
+/MvvmUtils/MvvmUtils.Test/bin
+/MvvmUtils/MvvmUtils.Test/obj
+/MvvmUtils/packages
